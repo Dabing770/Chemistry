@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "KE 1-2/Hila.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Hila"
             }
           }
         ]
@@ -184,13 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "022e081c65ecf140",
+  "active": "6e9868915e236c03",
   "lastOpenFiles": [
+    "README.md",
     "KE 1-2/Jaksollinen järjestelmä.md",
     "Kuvat",
     "Kuvat/Pasted image 20260507200955.png",
     "KE 1-2/Ainemäärä.md",
-    "README.md",
     "KE 1-2/Aineen ominaisuudet.md",
     "KE 6/Le Cârtelier'n periaate.md",
     "KE/KE5/Seoslaskut.md",
