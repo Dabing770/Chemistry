@@ -5,8 +5,6 @@ Kun lähtöaineena on usean yhdisteen seos
 	3. Muodostuuko jokin yjteinen reaktiotuote
 	*Huom! Reaktio yhtälöitä ei voi yhdistää*
 
-## 关联
 
-
-- 相关基础：[[Hapettumis ja pelkistymisreaktio]]
+[[Hapettumis ja pelkistymisreaktio]]
 	

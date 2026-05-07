@@ -23,7 +23,4 @@ K pysyy samana
 
 Lisämällä lähtöaineita syntyy enemmän reaktiotuotetta
 
-## 关联
-
-
-- 化学反应基础：[[KE/KE5/Seoslaskut|Seoslaskut]]
+[[KE 5/Seoslaskut|Seoslaskut]]

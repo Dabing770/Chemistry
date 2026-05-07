@@ -41,9 +41,7 @@ $$
 $$
 	     Anodi(epäjalompi)       Kadoti(jalompi)
 
-## 关联
 
-
-- 前置知识：[[Hapettumis ja pelkistymisreaktio]]
-- 对比：[[Elektrolyysi]]
+[[Hapettumis ja pelkistymisreaktio]]
+[[Elektrolyysi]]
 
