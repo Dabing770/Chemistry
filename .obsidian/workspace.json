@@ -11,14 +11,17 @@
             "id": "022e081c65ecf140",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -185,17 +188,18 @@
   },
   "active": "022e081c65ecf140",
   "lastOpenFiles": [
+    "KE 1-2/Aineen ominaisuudet.md",
+    "未命名.canvas",
+    "README.md",
     "KE 4/KE 4 Koe.md",
     "KE 3/KE 3 Koe.md",
     "KE 1-2/KE 1-2 Koe.md",
     "未命名.base",
-    "KE 1-2/Aineen rakenne.md",
     "KE 6/Le Cârtelier'n periaate.md",
     "KE 5/Elektrolyysi.md",
     "KE 5/Sähköpari.md",
     "KE 5/Seoslaskut.md",
     "KE 5/Hapettumis ja pelkistymisreaktio.md",
-    "README.md",
     "未命名.md",
     "KE 6",
     "KE 5",
