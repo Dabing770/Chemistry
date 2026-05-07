@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KE 1-2/Jaksollinen järjestelmä.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jaksollinen järjestelmä"
+              "title": "README"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "022e081c65ecf140",
   "lastOpenFiles": [
+    "KE 1-2/Jaksollinen järjestelmä.md",
     "Kuvat",
     "Kuvat/Pasted image 20260507200955.png",
     "KE 1-2/Ainemäärä.md",
-    "KE 1-2/Jaksollinen järjestelmä.md",
     "README.md",
     "KE 1-2/Aineen ominaisuudet.md",
     "KE 6/Le Cârtelier'n periaate.md",
@@ -215,7 +215,6 @@
     "KE 4",
     "KE 3",
     "KE 1-2",
-    "KE4",
-    "KE 3"
+    "KE4"
   ]
 }
