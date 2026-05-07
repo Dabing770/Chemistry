@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "KE 1-2/Jaksollinen järjestelmä.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Jaksollinen järjestelmä"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -186,8 +186,12 @@
   },
   "active": "022e081c65ecf140",
   "lastOpenFiles": [
-    "KE 1-2/Aineen ominaisuudet.md",
+    "Kuvat",
+    "Kuvat/Pasted image 20260507200955.png",
+    "KE 1-2/Ainemäärä.md",
+    "KE 1-2/Jaksollinen järjestelmä.md",
     "README.md",
+    "KE 1-2/Aineen ominaisuudet.md",
     "KE 6/Le Cârtelier'n periaate.md",
     "KE/KE5/Seoslaskut.md",
     "KE 5/Seoslaskut.md",
