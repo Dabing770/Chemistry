@@ -3,4 +3,8 @@
 
 - Joitain kemian muistinpanoja
 
-Päivitys loppu 1.10.2026
+Päivityksiä tulee joskus
+
+Yhteystiedot:
+Discord: dabing662
+WeChat: DB__WX
