@@ -6,5 +6,5 @@
 Päivityksiä tulee joskus
 
 - Yhteystiedot:
-	- Discord: dabing662
+	- Discord: dabing770
 	- WeChat: DB__WX
