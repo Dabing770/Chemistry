@@ -8,6 +8,5 @@ Päivityksiä tulee joskus
 Suossittelen lataamaan tiedostot omalle koneelle, jotta voit itse muokata
 - Yhteystiedot:
 	- Discord: dabing770
-	- WeChat: DB__WX
 
 - Tekijä: Ao Jiang
