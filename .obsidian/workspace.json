@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asioita joita en ymmärrä.md",
+                "file": "KE 3/Isomeria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asioita joita en ymmärrä"
+              "title": "Isomeria"
             }
           }
         ],
@@ -203,8 +203,9 @@
   },
   "active": "945ce25c6d25a6fd",
   "lastOpenFiles": [
-    "KE 4/V.md",
     "Asioita joita en ymmärrä.md",
+    "KE 3/Isomeria.md",
+    "KE 4/V.md",
     "KE 4/KE 4 Koe.md",
     "KE 3/KE 3 Koe.md",
     "Kilpailu",
