@@ -12,6 +12,7 @@
 
 
 
+
 ## Stereoisomeria
 ### Konformaatioisomeria
 ### Cis-trans-isomeria
