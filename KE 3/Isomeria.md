@@ -15,5 +15,9 @@
 
 ## Stereoisomeria
 ### Konformaatioisomeria
+- Yksinkertainen sidos kiertynyt eri tavoin
+ ![[Pasted image 20260809192330.png]]
+ 
 ### Cis-trans-isomeria
+- Kaksoissidoksen tai tason toisellapuolella tai samalla puolella
 ### Optinen isomeria
