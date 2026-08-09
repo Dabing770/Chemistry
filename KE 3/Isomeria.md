@@ -3,9 +3,14 @@
 
 ## Rakenneisomeria
 ### Runkoisomeria
+- Sama molekyylikaavan iiliketjut
 ### Funktioisomeria
 
 ### Paikkaisomeria
 
+
+
 ## Stereoisomeria
 ### Konformaatioisomeria
+### Cis-trans-isomeria
+### Optinen isomeria
