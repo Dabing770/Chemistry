@@ -21,3 +21,4 @@
 ### Cis-trans-isomeria
 - Kaksoissidoksen tai tason toisellapuolella tai samalla puolella
 ### Optinen isomeria
+- Peili isomeria
