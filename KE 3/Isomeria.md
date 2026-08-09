@@ -3,10 +3,12 @@
 
 ## Rakenneisomeria
 ### Runkoisomeria
-- Sama molekyylikaavan iiliketjut
+- Sama molekyylikaavan hiiliketjut voiolla haaroitunut tai suoria
 ### Funktioisomeria
+- Sama molekyylikaava, mutta erilainen funktionaalinen ryhmä
 
 ### Paikkaisomeria
+- Funktionaalinen ryhmä sijaitsee toisessa paikkassa
 
 
 
