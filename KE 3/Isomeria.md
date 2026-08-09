@@ -6,3 +6,6 @@
 ### Funktioisomeria
 
 ### Paikkaisomeria
+
+## Stereoisomeria
+### Konformaatioisomeria
